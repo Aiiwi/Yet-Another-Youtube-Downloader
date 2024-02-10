@@ -11,4 +11,7 @@ Gui interface: Yay! very very simple gui for easy navigation
 Be aware that the code isn't one of the best, but the next updates i want to revamp the gui with a nice
 theme!😵‍💫.
 
+<h3>Thanks for the assets:</h3>
+Pytube lib: https://github.com/pytube/pytube
+
 <b/>Usage Disclaimer: Users are advised to comply with YouTube's copyright policies while using this tool.
