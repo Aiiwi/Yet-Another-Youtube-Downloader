@@ -19,4 +19,4 @@ It might have some problems with the mp3 files because they are just mp4 renamed
 pytube to my knowledge gives a only audio filter but outputs only a mp4 with no video
 so this is my temp fix but i will look into it.
 
-<b/>Usage Disclaimer: Users are advised to comply with YouTube's copyright policies while using this tool.
+<br><b/>Usage Disclaimer: Users are advised to comply with YouTube's copyright policies while using this tool.
