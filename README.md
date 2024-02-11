@@ -8,7 +8,7 @@ Download YouTube Video or Audio: Easily download YouTube video or audio by provi
 Gui interface: Yay! very very simple gui for easy navigation.
 
 <h3>Note to Users:</h3>
-Be aware that the code isn't one of the best, but the next updates i want to revamp the gui with a nice
+Be aware that the code isn't one of the best im learning, but the next updates i want to revamp the gui with a nice
 theme!😵‍💫.
 
 <h3>Thanks for the assets:</h3>
