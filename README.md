@@ -1,22 +1,19 @@
-# Yet-Another-Youtube-Downloader
+<h1>Yet-Another-Youtube-Downloader</h1>
 
 <h3>Overview:</h3>
-Just a simple Youtube downloader made in python made by me just to get better with coding!.
-
-<h3>Features:</h3>
-Download YouTube Video or Audio: Easily download YouTube video or audio by providing the video URL.
-Gui interface: Yay! very VERY simple gui for easy navigation.
+A Simple Youtube Downloader like the others without any Ai shenanigans, im doing this only to learn and grow.
 
 <h3>Note to Users:</h3>
-Be aware that the code isn't one of the best im still learning, but for the next updates i wish to revamp the gui with a nice
-theme!😵‍💫.
+If you notice that while you press download the app freezes don't panic, <br>
+im using a lib called Ffmpeg-python by kkroening to get the best quality and codecs.<br>
+<br>Be aware that the code isn't one of the best.<br>
+For next update im gonna look for implementing rightfully the progressbar and mov fileformat.<br>
+Don't know if posix platform works right, I haven't heavily tasted it.
 
-<h3>Thanks for the assets:</h3>
-Pytube lib: https://github.com/pytube/pytube
-
-<h3>Problems:</h3>
-It might have some problems with the mp3 files because they are just mp4 renamed, 
-pytube to my knowledge gives a only audio filter but outputs only a mp4 with no video
-so this is my temp fix but i will look into it.
+<h3>Credits:</h3>
+<a href=https://github.com/JuanBindez/pytubefix>Pytubefix</a> by JuanBindez<br>
+<a href=https://github.com/rdbende/Forest-ttk-theme>Forest-ttk-theme</a> by rdbende<br>
+<a href=https://github.com/Akascape/py-window-styles>Py-window-styles</a> by Akascape<br>
+<a href=https://github.com/kkroening/ffmpeg-python>Ffmpeg-python</a> by kkroening<br>
 
 <br><b/>Usage Disclaimer: Users are advised to comply with YouTube's copyright policies while using this tool.
