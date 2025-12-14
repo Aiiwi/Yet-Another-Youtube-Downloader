@@ -1,12 +1,12 @@
-<h1>Yet-Another-Youtube-Downloader</h1><br>
+<h1>Yet-Another-Youtube-Downloader</h1>
 
-<h3>Overview:</h3><br>
+<h3>Overview:</h3>
 A Simple Youtube Downloader like the others without any Ai shenanigans.<br>
 
-<h3>Note to Users:</h3><br>
+<h3>Note to Users:</h3>
 If you notice that while you press download the app freezes don't panic, <br>
 im using a lib called Ffmpeg-python by kkroening to get the best quality and codecs.<br>
-<h4>Be aware that the code isn't one of the best.</h4><br>
+<h4>Be aware that the code isn't one of the best.</h4>
 Yeah it's poopoo.<br>
 For next update im gonna look for implementing rightfully the progressbar and mov fileformat.<br>
 Don't know if posix platform works right, I haven't tasted it.<br>
