@@ -6,7 +6,7 @@ A Simple Youtube Downloader like the others without any Ai shenanigans.
 <h3>Note to Users:</h3>
 If you notice that while you press download the app freezes don't panic, <br>
 im using a lib called Ffmpeg-python by kkroening to get the best quality and codecs.<br>
-<br>Be aware that the code isn't one of the best.<br>
+<h4>Be aware that the code isn't one of the best.<h4>
 Yeah it's poopoo.
 For next update im gonna look for implementing rightfully the progressbar and mov fileformat.<br>
 Don't know if posix platform works right, I haven't tasted it.
